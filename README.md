@@ -1,1 +1,1 @@
-# ML-_trading_Projects
+# ML_trading_Projects
