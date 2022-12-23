@@ -13,4 +13,4 @@
 #### DecisionTreeRegressor with Optuna hyperparameter tuning got a mae value of 0.005.
 #### ARIMA with mae value 0.05.
 #### Algo bot 1: SMA crossover with ML confluence where trade size automatically increases or decreases according to ML forecast.
-
+#### Straddle bot: data: Banknifty options, 1year backtest is complete and live trading code is yet to finish.
